@@ -1,3 +1,7 @@
+-=(Defender_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 ---------------------------------------------------------------------------------
 -- Arcade: Defender port to MiSTer by Sorgelig
 -- 22 October 2017
