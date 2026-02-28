@@ -2,6 +2,12 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
+Dev notes: Added an Arcade-Defender.sdc
+
+Entry in files.qip: set_global_assignment -name SDC_FILE Arcade-Defender.sdc
+
+In sys_top.v: assign HDMI_MCLK = 1'b1; // Audio crackles fix
+
 ---------------------------------------------------------------------------------
 -- Arcade: Defender port to MiSTer by Sorgelig
 -- 22 October 2017
