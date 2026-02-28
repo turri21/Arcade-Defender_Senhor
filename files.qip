@@ -9,3 +9,4 @@ set_global_assignment -name VHDL_FILE rtl/defender.vhd
 set_global_assignment -name VERILOG_FILE rtl/pause.v
 set_global_assignment -name VERILOG_FILE rtl/nvram.v
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-Defender.sv"
+set_global_assignment -name SDC_FILE Arcade-Defender.sdc
